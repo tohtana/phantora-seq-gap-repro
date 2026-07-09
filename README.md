@@ -1,4 +1,4 @@
-# Shared-Loop 4-GPU Phantora Repro
+# Phantora Estimation Gap Repro
 
 This is the handoff package for the full-model sequence-length mismatch. It
 contains one Python training loop and one launcher. The real and Phantora rows
